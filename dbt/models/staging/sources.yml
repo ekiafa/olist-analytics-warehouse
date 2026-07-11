@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: olist_bronze
+    database: workspace
+    schema: olist_bronze
+    tables:
+      - name: customers
+      - name: orders
+      - name: order_items
+      - name: order_payments
+      - name: order_reviews
+      - name: products
+      - name: sellers
+      - name: geolocation
+      - name: category_translation
