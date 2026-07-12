@@ -1,0 +1,1 @@
+select * from `workspace`.`olist_staging`.`stg_order_reviews`
